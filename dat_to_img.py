@@ -2,7 +2,7 @@ from PIL import Image
 
 loc = "./content/pictures/"
 dloc= "./content/data/"
-fname = "New_Lenna_512.jpg"
+fname = "New_Lenna_512_after2.jpg"
 outdat = "new_lenna512.dat"
 height = 512
 width = 512
